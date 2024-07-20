@@ -56,5 +56,43 @@ This project is modularized as the following:
 
 </p>
 
+After registering successfully you will get a username and password then login using it.
+After login you will get options like search buses, Booking Report.
+
+##### Reservation information
+
+<p align="center">
+  <img src="./Captures/Reservation information.png" width="700" title="hover text">
+
+</p>
+
+After searching your desired bus you will get a select option and then you will proceed towards your booking.
+
+##### Billing Information
+<p align="center">
+  <img src="./Captures/Billing Information.png" width="700" title="hover text">
+
+</p>
+
+After completing your payment information, you will receive a notification
+
+##### Payment success
+<p align="center">
+  <img src="./Captures/Payment success.png" width="700" title="hover text">
+
+</p>
+
+Finally, you can print out the ticket to use the service
+
+##### Ticket
+<p align="center">
+  <img src="./Captures/Ticket.png" width="700" title="hover text">
+
+</p>
+
+
+
+
+
 
 

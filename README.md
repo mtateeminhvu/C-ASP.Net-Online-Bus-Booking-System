@@ -14,6 +14,47 @@ This project is modularized as the following:
 ## Demo
 #### So this is our startup page:
 <p align="center">
-  <img src="./Captures/Home.png" width="500" title="hover text">
+  <img src="./Captures/Home.png" width="700" title="hover text">
 
 </p>
+
+#### Now by clicking on Admin button you will redirect to admin section.
+
+<p align="center">
+  <img src="./Captures/Admin.png" width="700" title="hover text">
+
+</p>
+
+#### After login, you will get options like add bus, Route details, Booking Report, Bus details Report.
+
+##### Bus information
+
+<p align="center">
+  <img src="./Captures/Bus information.png" width="700" title="hover text">
+
+</p>
+
+##### Booking Report
+
+<p align="center">
+  <img src="./Captures/Booking Report.png" width="700" title="hover text">
+
+</p>
+
+##### Add bus schedule
+
+<p align="center">
+  <img src="./Captures/Add bus schedule.png" width="700" title="hover text">
+
+</p>
+
+
+##### Add bus details
+
+<p align="center">
+  <img src="./Captures/Add bus details.png" width="700" title="hover text">
+
+</p>
+
+
+

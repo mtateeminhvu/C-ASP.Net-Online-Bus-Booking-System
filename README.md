@@ -5,6 +5,6 @@ So this is our startup page:
 ## Demo
 #### Sign up, loggin
 <p align="center">
-  <img src="./Captures/Home.jpg" width="350" title="hover text">
-  <img src="./Captures/Home.jpg" width="350" title="hover text">
+  <img src="./Captures/Home.png" width="350" title="hover text">
+  <img src="./Captures/Home.png" width="350" title="hover text">
 </p>
